@@ -14,7 +14,7 @@ Hello, there! 👋
 ## Technologies and Tools
 
 - **Proficient in:**
-  - HTML5, CSS3, JavaScript (ES6+)
+  - HTML5, CSS3, JavaScript (ES6+), Python (Odoo Development)
   - React, Next.js
   - Tailwind CSS
   - Git & GitHub
