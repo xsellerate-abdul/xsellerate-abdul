@@ -8,7 +8,7 @@ Hello, there! 👋
 - 🌟 My goals are to:
   - Contribute to impactful open-source projects.
   - Build scalable, user-friendly web applications.
-  - Advance my skills in JavaScript, React, and backend development.
+  - Advance my skills in JavaScript, React, and backend development (Python 3+).
 - ❓ Ask me about web development, Tailwind CSS, or my journey in software development!
 
 ## Technologies and Tools
